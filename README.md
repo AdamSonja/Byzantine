@@ -29,10 +29,10 @@ To ensure fairness and track your progress, this hackathon features a strict two
 *Please overwrite the information below with your actual project details before the final evaluation.*
 
 ### Team Name: 
-[Enter your team name]
+Byzantine
 
 ### Project Name:
-[Enter your project name]
+Incentivised Distributed AI training System
 
 ### Project Description:
 [Write a brief 1-2 paragraph description of what your project does, the problem it solves, and the technologies used.]
